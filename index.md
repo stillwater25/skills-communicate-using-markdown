@@ -1,5 +1,8 @@
 # I lost the game
 ## xooks
+- [x] Install Arch Linux
+- [x] Learn GitHub
+- [ ] Contrib to a project :(
 ### xonk
 ```cpp
 #include <bits/stdc++.h>
